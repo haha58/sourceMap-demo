@@ -1,12 +1,12 @@
 
 <script setup lang="ts">
-import { onMounted } from "vue";
-  onMounted(() => {
-    let testNum=null
-    if(testNum.length){
-      console.log("报错了");
-    } 
-  });
+// import { onMounted } from "vue";
+//   onMounted(() => {
+//     let testNum=null
+//     if(testNum.length){
+//       console.log("报错了");
+//     } 
+//   });
 </script>
 
 <template>
